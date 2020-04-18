@@ -9,3 +9,6 @@ The prepared data is saved as geojson object and I used it to plot heatmap showi
 Plot 2 is created using html/javascript and mapbox API.
 
 ![Mumbai Heatmap2](https://github.com/InternityFoundation/TruthRevealed/blob/master/mumbai_heatmap_2.JPG)
+
+
+![Mumbai Heatmap3](https://github.com/InternityFoundation/TruthRevealed/blob/master/mumbai_heatmap_3.JPG)
