@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "gid": 1, "name": "A", "heat_value": 0.01 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 2, "name": "B", "heat_value": 0.02 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 3, "name": "C", "heat_value": 0.01 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 4, "name": "D", "heat_value": 0.01 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 5, "name": "E", "heat_value": 0.01 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 6, "name": "F\/S", "heat_value": 0.01 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 7, "name": "G\/S", "heat_value": 0.03 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 8, "name": "F\/N", "heat_value": 0.01 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 9, "name": "G\/N", "heat_value": 0.01 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 10, "name": "N", "heat_value": 0.01 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 11, "name": "R\/C", "heat_value": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 12, "name": "S", "heat_value": 0.01 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 13, "name": "T", "heat_value": 0.01 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 14, "name": "K\/W", "heat_value": 0.01 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 15, "name": "R\/N", "heat_value": 0.01 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 16, "name": "M\/E", "heat_value": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 17, "name": "M\/W", "heat_value": 0.01 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 18, "name": "H\/E", "heat_value": 0.01 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 19, "name": "K\/E", "heat_value": 0.01 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 20, "name": "P\/S", "heat_value": 0.01 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 21, "name": "P\/N", "heat_value": 0.02 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 22, "name": "R\/S", "heat_value": 0.01 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 23, "name": "H\/W", "heat_value": 0.02 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } },
+{ "type": "Feature", "properties": { "gid": 24, "name": "L", "heat_value": 0.01 }, "geometry": { "type": "Point", "coordinates": [ 72.82499932841273, 18.92314404626714 ] } }
+]
+}
