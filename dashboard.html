@@ -21,7 +21,7 @@ var map = new mapboxgl.Map({
 container: 'map',
 style: 'mapbox://styles/mapbox/dark-v10',
 center: [72.8777, 19.0760],
-zoom: 10
+zoom: 8.5
 });
  
 map.on('load', function() {
@@ -112,6 +112,16 @@ map.addLayer({
 });
         
     });
+	
+	
+	
+	
+	map.on('click', 'poi-labels', function(e) {
+  new mapboxgl.Popup()
+    .setLngLat(e.features[0].geometry.coordinates)
+    .setHTML( e.features[0].properties.location+ ' covid intensity ' + e.features[0].properties.heat_value)
+    .addTo(map);
+});
 </script>
  
 </body>
